@@ -1,0 +1,119 @@
+Mail: emistanoiu@fuadd.me
+Username: emistanoiu@fuadd.me
+Temporary Password: xkx!567NEQ
+-------------
+emoboy@picsviral.net
+khanh132
+
+emoboy@picsviral.net
+khanh132
+https://www.euserv.com/en/index.php
+
+
+--------------------
+https://mnl.cloudsigma.com/ui/4.0/upgrade
+anastassia40@quirsratio.com
+https://temporary-phone-number.com/US-Phone-Number/19513669054
+lixuwafesa
+https://www.emailondeck.com/email.php?msg_id=35040380
+
+--------------------
+https://mnl.cloudsigma.com/ui/4.0/login
+calen@quirsratio.com
+2c855b52-7eed-4456-90ca-c47159db0b72
+43.243.127.126
+Kh@nh132132
+https://mnl.cloudsigma.com/ui/4.0/novnc/vnc_auto.html?host=mnl.cloudsigma.com&port=443&true_color=true&path=vnc/2b14ef0f-3d6d-4db2-b497-1442a1841e25/&password=Kh@nh132132
+Administrator
+Kh@nh132132
+
+---------------
+mobile1 43.243.127.126  Running
+2b14ef0f-3d6d-4db2-b497-1442a1841e25
+
+
+https://auth3.perfectomobile.com/auth/realms/trial-perfectomobile-com/protocol/openid-connect/auth?client_id=reportium&redirect_uri=https%3A%2F%2Ftrial.app.perfectomobile.com%2F&state=bd74eaec-b23c-468b-bfcb-29c70e1942b5&response_mode=fragment&response_type=code&scope=openid&nonce=8eea0ca2-3b0f-48b8-87a3-d775972a28b0
+
+
+
+-------------------
+LINUX
+vida11@lmaritimen.com
+Kh@nh132132
+https://www.emailondeck.com/email.php?msg_id=35058869
+https://temporary-phone-number.com/UK-Phone-Number/447700185192
+Kh@nh132132
+
+
+ Username: cloudsigma Password: Cloud2022
+https://www.emailondeck.com/email.php?msg_id=35069967
+asuka11@lmaritimen.com
+khanh132
+---
+
+sudo rpm -Uvh android-x86-9.0-rc2.x86_64.rpm
+
+
+--------------
+sudo apt update
+sudo apt install ubuntu-desktop
+sudo apt install xrdp
+sudo systemctl status xrdp
+sudo adduser xrdp ssl-cert
+sudo ufw allow 3389 (or)
+sudo ufw allow from 192.168.2.0/24 to any port 3389
+sudo ufw reload
+--------------
+
+
+
+Ubunu1
+https://www.emailondeck.com/email.php?msg_id=35101450
+https://temporary-phone-number.com/UK-Phone-Number/447700185143
+
+Email:
+barbarann.41@lmaritimen.com
+khanh132
+
+43.243.126.120
+Administrator
+Kh@nh132132
+
+remote:
+116.93.97.86
+khanh132
+
+1. Quy trinh Thay đổi ip.
+2. Vào đăng ký: https://mnl.cloudsigma.com/ui/4.0/login
+3. thoát tool đổi ip.
+4. Tạo mail ảo | emailondeck.
+5. Tạo số điện thoại ảo |+44|+1
+
+
+
+103.38.214.24
+
+--------------
+103.38.214.42  Running
+cloudsigma
+khanh132
+
+=================
+103.38.214.116
+Administrator
+Khanh132132
+
+--------------------
+Server01:
+IP: 116.93.124.96
+Email: 
+Passwd: Khanh132132
+
+--------------------
+Server01:
+IP: 116.93.97.249
+103.38.214.67
+Email: chun0@leaderssk.com
+Passwd: Khanh132132
+
+
